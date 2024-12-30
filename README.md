@@ -11,10 +11,9 @@ Overview of the Project
 This project involves implementing and comparing different AI models on a dataset using various evaluation metrics.
 The goal is to identify the best-performing model based on accurately classifying the data.
 
-![image](https://github.com/user-attachments/assets/7bcf9a16-6284-4e3e-bfff-662638e43709)
-![image](https://github.com/user-attachments/assets/68aaa9e9-d4cb-48d8-8bc3-0595c44d9bde)
-![image](https://github.com/user-attachments/assets/cb85f112-586b-4227-9025-0a6134256cc5)
-
+![image](https://github.com/user-attachments/assets/9f04e667-27cc-442c-acab-5fe511c5c88e)
+![image](https://github.com/user-attachments/assets/94a11fe6-f6d7-48d2-8cb7-1758e1536578)
+![image](https://github.com/user-attachments/assets/0c669327-1553-4723-a3fc-34427446e499)
 
 Objective
 The objective of this project is to:
