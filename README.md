@@ -6,10 +6,15 @@
  Domain: Artificial Intelligence
  Duration: Dec 20th, 2024 to April 2025
  Mentor: Neela Santosh Kumar
-
+ 
 Overview of the Project
 This project involves implementing and comparing different AI models on a dataset using various evaluation metrics.
-The goal is to identify the best-performing model based on its ability to accurately classify the data.
+The goal is to identify the best-performing model based on accurately classifying the data.
+
+![image](https://github.com/user-attachments/assets/7bcf9a16-6284-4e3e-bfff-662638e43709)
+![image](https://github.com/user-attachments/assets/68aaa9e9-d4cb-48d8-8bc3-0595c44d9bde)
+![image](https://github.com/user-attachments/assets/cb85f112-586b-4227-9025-0a6134256cc5)
+
 
 Objective
 The objective of this project is to:
